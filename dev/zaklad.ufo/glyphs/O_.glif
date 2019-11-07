@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="O" format="1">
+  <unicode hex="004F"/>
+  <advance width="735"/>
+  <outline>
+    <contour>
+      <point x="175" y="611" type="line"/>
+      <point x="20" y="461" type="line"/>
+      <point x="20" y="150" type="line"/>
+      <point x="175" y="0" type="line"/>
+      <point x="560" y="0" type="line"/>
+      <point x="715" y="150" type="line"/>
+      <point x="715" y="461" type="line"/>
+      <point x="560" y="611" type="line"/>
+    </contour>
+    <contour>
+      <point x="400" y="516" type="line"/>
+      <point x="400" y="95" type="line"/>
+      <point x="335" y="95" type="line"/>
+      <point x="335" y="516" type="line"/>
+    </contour>
+    <contour>
+      <point x="301" y="755" type="move" name="top.cap"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="0" width="95" />
+      <hstem pos="516" width="95" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

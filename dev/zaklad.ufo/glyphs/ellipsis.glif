@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ellipsis" format="1">
+  <unicode hex="2026"/>
+  <advance width="822"/>
+  <outline>
+    <contour>
+      <point x="63" y="200" type="line"/>
+      <point x="10" y="149" type="line"/>
+      <point x="10" y="51" type="line"/>
+      <point x="63" y="0" type="line"/>
+      <point x="212" y="0" type="line"/>
+      <point x="264" y="51" type="line"/>
+      <point x="264" y="149" type="line"/>
+      <point x="212" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="337" y="200" type="line"/>
+      <point x="284" y="149" type="line"/>
+      <point x="284" y="51" type="line"/>
+      <point x="337" y="0" type="line"/>
+      <point x="486" y="0" type="line"/>
+      <point x="538" y="51" type="line"/>
+      <point x="538" y="149" type="line"/>
+      <point x="486" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="611" y="200" type="line"/>
+      <point x="558" y="149" type="line"/>
+      <point x="558" y="51" type="line"/>
+      <point x="611" y="0" type="line"/>
+      <point x="760" y="0" type="line"/>
+      <point x="812" y="51" type="line"/>
+      <point x="812" y="149" type="line"/>
+      <point x="760" y="200" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="0" width="200" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

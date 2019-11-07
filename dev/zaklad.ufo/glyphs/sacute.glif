@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sacute" format="1">
+  <unicode hex="015B"/>
+  <advance width="725"/>
+  <outline>
+    <contour>
+      <point x="120" y="474" type="line"/>
+      <point x="25" y="385" type="line"/>
+      <point x="25" y="281" type="line"/>
+      <point x="121" y="191" type="line"/>
+      <point x="395" y="191" type="line"/>
+      <point x="395" y="95" type="line"/>
+      <point x="330" y="95" type="line"/>
+      <point x="330" y="140" type="line"/>
+      <point x="320" y="151" type="line" name="hr01"/>
+      <point x="25" y="151" type="line"/>
+      <point x="15" y="141" type="line"/>
+      <point x="15" y="40" type="line"/>
+      <point x="56" y="0" type="line"/>
+      <point x="615" y="0" type="line"/>
+      <point x="710" y="90" type="line"/>
+      <point x="710" y="193" type="line"/>
+      <point x="615" y="283" type="line"/>
+      <point x="330" y="283" type="line"/>
+      <point x="330" y="379" type="line"/>
+      <point x="395" y="379" type="line"/>
+      <point x="395" y="333" type="line"/>
+      <point x="405" y="323" type="line" name="hr02"/>
+      <point x="690" y="323" type="line"/>
+      <point x="700" y="333" type="line"/>
+      <point x="700" y="434" type="line"/>
+      <point x="660" y="474" type="line"/>
+    </contour>
+    <contour>
+      <point x="287" y="704" type="line"/>
+      <point x="236" y="504" type="line"/>
+      <point x="446" y="504" type="line"/>
+      <point x="497" y="674" type="line"/>
+      <point x="497" y="704" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="0" width="151" />
+      <hstem pos="191" width="92" />
+      <hstem pos="379" width="95" />
+      <hstem pos="504" width="200" />
+    </hintset>
+    <hintset pointTag="hr02">
+      <hstem pos="0" width="95" />
+      <hstem pos="191" width="92" />
+      <hstem pos="379" width="95" />
+      <hstem pos="504" width="200" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

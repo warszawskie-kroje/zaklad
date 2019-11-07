@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent" format="1">
+  <unicode hex="02D9"/>
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="175" y="704" type="line"/>
+      <point x="122" y="653" type="line"/>
+      <point x="122" y="555" type="line"/>
+      <point x="175" y="504" type="line"/>
+      <point x="324" y="504" type="line"/>
+      <point x="376" y="555" type="line"/>
+      <point x="376" y="653" type="line"/>
+      <point x="324" y="704" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="504" width="200" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

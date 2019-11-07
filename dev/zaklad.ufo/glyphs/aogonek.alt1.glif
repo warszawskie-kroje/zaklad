@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aogonek.alt1" format="1">
+  <advance width="725"/>
+  <outline>
+    <contour>
+      <point x="436" y="474" type="line"/>
+      <point x="397" y="385" type="line"/>
+      <point x="309" y="474" type="line"/>
+      <point x="35" y="474" type="line"/>
+      <point x="25" y="464" type="line"/>
+      <point x="25" y="10" type="line"/>
+      <point x="35" y="0" type="line"/>
+      <point x="309" y="0" type="line"/>
+      <point x="397" y="88" type="line"/>
+      <point x="436" y="0" type="line"/>
+      <point x="480" y="0" type="line"/>
+      <point x="353" y="-97" type="line"/>
+      <point x="353" y="-127" type="line"/>
+      <point x="563" y="-127" type="line"/>
+      <point x="700" y="10" type="line"/>
+      <point x="700" y="464" type="line"/>
+      <point x="690" y="474" type="line"/>
+    </contour>
+    <contour>
+      <point x="330" y="346" type="line"/>
+      <point x="395" y="346" type="line"/>
+      <point x="395" y="128" type="line"/>
+      <point x="330" y="128" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="-106" width="-21" />
+      <hstem pos="0" width="-20" />
+      <hstem pos="474" width="-20" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

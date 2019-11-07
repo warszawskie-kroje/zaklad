@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="y.alt1" format="1">
+  <advance width="730"/>
+  <outline>
+    <contour>
+      <point x="410" y="474" type="line"/>
+      <point x="400" y="464" type="line"/>
+      <point x="400" y="153" type="line"/>
+      <point x="335" y="153" type="line"/>
+      <point x="335" y="464" type="line"/>
+      <point x="325" y="474" type="line"/>
+      <point x="30" y="474" type="line"/>
+      <point x="20" y="464" type="line"/>
+      <point x="20" y="168" type="line"/>
+      <point x="135" y="58" type="line"/>
+      <point x="400" y="58" type="line"/>
+      <point x="400" y="24" type="line"/>
+      <point x="30" y="24" type="line"/>
+      <point x="20" y="14" type="line"/>
+      <point x="20" y="-117" type="line"/>
+      <point x="30" y="-127" type="line"/>
+      <point x="573" y="-127" type="line"/>
+      <point x="705" y="0" type="line"/>
+      <point x="705" y="464" type="line"/>
+      <point x="695" y="474" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>20</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="-127" width="151" />
+      <hstem pos="58" width="95" />
+      <hstem pos="474" width="-20" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

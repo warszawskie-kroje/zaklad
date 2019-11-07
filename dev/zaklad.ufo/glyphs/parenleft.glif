@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenleft" format="1">
+  <unicode hex="0028"/>
+  <advance width="275"/>
+  <outline>
+    <contour>
+      <point x="155" y="651" type="line"/>
+      <point x="30" y="531" type="line"/>
+      <point x="30" y="-47" type="line"/>
+      <point x="154" y="-167" type="line"/>
+      <point x="235" y="-167" type="line"/>
+      <point x="245" y="-157" type="line"/>
+      <point x="245" y="640" type="line"/>
+      <point x="235" y="651" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="-146" width="-21" />
+      <hstem pos="651" width="-20" />
+      <vstem pos="30" width="215" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

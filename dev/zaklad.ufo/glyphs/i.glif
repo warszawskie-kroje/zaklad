@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i" format="1">
+  <unicode hex="0069"/>
+  <advance width="470"/>
+  <outline>
+    <contour>
+      <point x="20" y="386" type="line"/>
+      <point x="10" y="376" type="line"/>
+      <point x="10" y="245" type="line"/>
+      <point x="20" y="235" type="line"/>
+      <point x="85" y="235" type="line"/>
+      <point x="85" y="151" type="line"/>
+      <point x="20" y="151" type="line"/>
+      <point x="10" y="141" type="line"/>
+      <point x="10" y="10" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="455" y="0" type="line"/>
+      <point x="465" y="10" type="line"/>
+      <point x="465" y="141" type="line"/>
+      <point x="455" y="151" type="line"/>
+      <point x="390" y="151" type="line"/>
+      <point x="390" y="376" type="line"/>
+      <point x="380" y="386" type="line"/>
+    </contour>
+    <contour>
+      <point x="85" y="611" type="line"/>
+      <point x="75" y="601" type="line"/>
+      <point x="75" y="441" type="line"/>
+      <point x="85" y="431" type="line"/>
+      <point x="380" y="431" type="line"/>
+      <point x="390" y="441" type="line"/>
+      <point x="390" y="601" type="line"/>
+      <point x="380" y="611" type="line"/>
+    </contour>
+    <contour>
+      <point x="159" y="755" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>401</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>223</real>
+    </dict>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="0" width="151" />
+      <hstem pos="235" width="151" />
+      <hstem pos="431" width="180" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

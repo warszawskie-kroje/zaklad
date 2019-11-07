@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="v" format="1">
+  <unicode hex="0076"/>
+  <advance width="715"/>
+  <outline>
+    <contour>
+      <point x="25" y="474" type="line"/>
+      <point x="15" y="464" type="line"/>
+      <point x="15" y="220" type="line"/>
+      <point x="141" y="0" type="line"/>
+      <point x="574" y="0" type="line"/>
+      <point x="700" y="220" type="line"/>
+      <point x="700" y="464" type="line"/>
+      <point x="690" y="474" type="line"/>
+      <point x="398" y="474" type="line"/>
+      <point x="388" y="464" type="line"/>
+      <point x="388" y="105" type="line"/>
+      <point x="327" y="105" type="line"/>
+      <point x="327" y="464" type="line"/>
+      <point x="317" y="474" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>120</real>
+    </dict>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="0" width="105" />
+      <hstem pos="474" width="-20" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

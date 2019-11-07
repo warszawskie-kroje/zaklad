@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek" format="1">
+  <unicode hex="02DB"/>
+  <advance width="400"/>
+  <outline>
+    <contour>
+      <point x="695" y="0" type="line"/>
+      <point x="485" y="0" type="line"/>
+      <point x="358" y="-97" type="line"/>
+      <point x="358" y="-127" type="line"/>
+      <point x="568" y="-127" type="line"/>
+    </contour>
+    <contour>
+      <point x="200" y="755" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>-127</real>
+    </dict>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="-127" width="127" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

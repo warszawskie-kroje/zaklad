@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="m.alt4" format="1">
+  <advance width="1095"/>
+  <outline>
+    <contour>
+      <point x="795" y="474" type="line"/>
+      <point x="547" y="374" type="line"/>
+      <point x="300" y="474" type="line"/>
+      <point x="35" y="474" type="line"/>
+      <point x="25" y="464" type="line"/>
+      <point x="25" y="10" type="line"/>
+      <point x="35" y="0" type="line"/>
+      <point x="320" y="0" type="line"/>
+      <point x="330" y="10" type="line"/>
+      <point x="330" y="316" type="line"/>
+      <point x="395" y="316" type="line"/>
+      <point x="395" y="10" type="line"/>
+      <point x="405" y="0" type="line"/>
+      <point x="690" y="0" type="line"/>
+      <point x="700" y="10" type="line"/>
+      <point x="700" y="316" type="line"/>
+      <point x="765" y="316" type="line"/>
+      <point x="765" y="10" type="line"/>
+      <point x="775" y="0" type="line"/>
+      <point x="1060" y="0" type="line"/>
+      <point x="1070" y="10" type="line"/>
+      <point x="1070" y="464" type="line"/>
+      <point x="1060" y="474" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>364</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>330</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>765</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="21" width="-21" />
+      <hstem pos="474" width="-20" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

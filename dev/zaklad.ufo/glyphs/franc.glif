@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="franc" format="1">
+  <unicode hex="20A3"/>
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="0" y="72" type="line"/>
+      <point x="10" y="62" type="line"/>
+      <point x="75" y="62" type="line"/>
+      <point x="75" y="10" type="line"/>
+      <point x="85" y="0" type="line"/>
+      <point x="370" y="0" type="line"/>
+      <point x="380" y="10" type="line"/>
+      <point x="380" y="62" type="line"/>
+      <point x="455" y="62" type="line"/>
+      <point x="465" y="72" type="line"/>
+      <point x="465" y="142" type="line"/>
+      <point x="455" y="152" type="line"/>
+      <point x="380" y="152" type="line"/>
+      <point x="380" y="202" type="line"/>
+      <point x="475" y="202" type="line"/>
+      <point x="485" y="212" type="line"/>
+      <point x="485" y="343" type="line"/>
+      <point x="475" y="353" type="line"/>
+      <point x="380" y="353" type="line"/>
+      <point x="380" y="460" type="line"/>
+      <point x="485" y="460" type="line"/>
+      <point x="495" y="470" type="line"/>
+      <point x="495" y="601" type="line"/>
+      <point x="485" y="611" type="line"/>
+      <point x="85" y="611" type="line"/>
+      <point x="75" y="601" type="line"/>
+      <point x="75" y="152" type="line"/>
+      <point x="10" y="152" type="line"/>
+      <point x="0" y="142" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="21" width="-21" />
+      <hstem pos="62" width="90" />
+      <hstem pos="202" width="151" />
+      <hstem pos="460" width="151" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

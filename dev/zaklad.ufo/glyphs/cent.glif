@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cent" format="1">
+  <unicode hex="00A2"/>
+  <advance width="707"/>
+  <outline>
+    <contour>
+      <point x="436" y="-137" type="line"/>
+      <point x="446" y="-127" type="line"/>
+      <point x="441" y="0" type="line"/>
+      <point x="675" y="0" type="line"/>
+      <point x="685" y="10" type="line"/>
+      <point x="685" y="141" type="line"/>
+      <point x="675" y="151" type="line"/>
+      <point x="335" y="151" type="line"/>
+      <point x="335" y="384" type="line"/>
+      <point x="400" y="384" type="line"/>
+      <point x="400" y="206" type="line"/>
+      <point x="410" y="196" type="line"/>
+      <point x="675" y="196" type="line"/>
+      <point x="685" y="206" type="line"/>
+      <point x="685" y="424" type="line"/>
+      <point x="635" y="474" type="line"/>
+      <point x="441" y="474" type="line"/>
+      <point x="446" y="591" type="line"/>
+      <point x="436" y="601" type="line"/>
+      <point x="296" y="601" type="line"/>
+      <point x="286" y="591" type="line"/>
+      <point x="291" y="474" type="line"/>
+      <point x="145" y="474" type="line"/>
+      <point x="20" y="354" type="line"/>
+      <point x="20" y="120" type="line"/>
+      <point x="145" y="0" type="line"/>
+      <point x="291" y="0" type="line"/>
+      <point x="286" y="-127" type="line"/>
+      <point x="296" y="-137" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>335</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>400</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="-116" width="-21" />
+      <hstem pos="0" width="151" />
+      <hstem pos="384" width="217" />
+      <vstem pos="288" width="155" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

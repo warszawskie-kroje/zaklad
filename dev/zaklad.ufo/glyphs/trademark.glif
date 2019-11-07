@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark" format="1">
+  <unicode hex="2122"/>
+  <advance width="926"/>
+  <outline>
+    <contour>
+      <point x="723" y="611" type="line"/>
+      <point x="640" y="460" type="line"/>
+      <point x="553" y="611" type="line"/>
+      <point x="371" y="611" type="line"/>
+      <point x="365" y="605" type="line"/>
+      <point x="365" y="241" type="line"/>
+      <point x="371" y="235" type="line"/>
+      <point x="534" y="235" type="line"/>
+      <point x="540" y="241" type="line"/>
+      <point x="540" y="354" type="line"/>
+      <point x="591" y="235" type="line"/>
+      <point x="685" y="235" type="line"/>
+      <point x="735" y="354" type="line"/>
+      <point x="735" y="241" type="line"/>
+      <point x="742" y="235" type="line"/>
+      <point x="905" y="235" type="line"/>
+      <point x="911" y="241" type="line"/>
+      <point x="911" y="604" type="line"/>
+      <point x="905" y="611" type="line"/>
+    </contour>
+    <contour>
+      <point x="11" y="611" type="line"/>
+      <point x="5" y="605" type="line"/>
+      <point x="5" y="518" type="line"/>
+      <point x="11" y="512" type="line"/>
+      <point x="76" y="512" type="line"/>
+      <point x="76" y="241" type="line"/>
+      <point x="82" y="235" type="line"/>
+      <point x="263" y="235" type="line"/>
+      <point x="270" y="241" type="line"/>
+      <point x="270" y="512" type="line"/>
+      <point x="334" y="512" type="line"/>
+      <point x="340" y="518" type="line"/>
+      <point x="340" y="605" type="line"/>
+      <point x="334" y="611" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>235</real>
+    </dict>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="256" width="-21" />
+      <hstem pos="512" width="99" />
+      <vstem pos="76" width="194" />
+      <vstem pos="365" width="175" />
+      <vstem pos="735" width="176" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

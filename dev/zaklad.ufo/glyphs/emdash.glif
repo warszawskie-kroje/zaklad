@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emdash" format="1">
+  <unicode hex="2014"/>
+  <advance width="825"/>
+  <outline>
+    <contour>
+      <point x="25" y="364" type="line"/>
+      <point x="15" y="354" type="line"/>
+      <point x="15" y="194" type="line"/>
+      <point x="25" y="184" type="line"/>
+      <point x="800" y="184" type="line"/>
+      <point x="810" y="194" type="line"/>
+      <point x="810" y="354" type="line"/>
+      <point x="800" y="364" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="184" width="180" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

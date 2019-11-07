@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sacute" format="1">
+  <unicode hex="015A"/>
+  <advance width="735"/>
+  <outline>
+    <contour>
+      <point x="115" y="611" type="line"/>
+      <point x="20" y="522" type="line"/>
+      <point x="20" y="296" type="line"/>
+      <point x="116" y="206" type="line"/>
+      <point x="400" y="206" type="line"/>
+      <point x="400" y="161" type="line"/>
+      <point x="30" y="161" type="line"/>
+      <point x="20" y="151" type="line"/>
+      <point x="20" y="10" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="620" y="0" type="line"/>
+      <point x="715" y="90" type="line"/>
+      <point x="715" y="266" type="line"/>
+      <point x="620" y="356" type="line"/>
+      <point x="335" y="356" type="line"/>
+      <point x="335" y="516" type="line"/>
+      <point x="400" y="516" type="line"/>
+      <point x="400" y="406" type="line"/>
+      <point x="410" y="396" type="line" name="hr01"/>
+      <point x="695" y="396" type="line"/>
+      <point x="705" y="406" type="line"/>
+      <point x="705" y="571" type="line"/>
+      <point x="665" y="611" type="line"/>
+    </contour>
+    <contour>
+      <point x="288" y="841" type="line"/>
+      <point x="237" y="641" type="line"/>
+      <point x="447" y="641" type="line"/>
+      <point x="498" y="811" type="line"/>
+      <point x="498" y="841" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="0" width="161" />
+      <hstem pos="206" width="150" />
+      <hstem pos="516" width="95" />
+      <hstem pos="641" width="200" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
